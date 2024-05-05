@@ -1,6 +1,6 @@
     <!-- ======= Breadcrumbs ======= -->
     <div class="breadcrumbs">
-      <div class="page-header d-flex align-items-center" style="background-image: url('<?php echo base_url('assets/'); ?>assets/img/page-header.jpg');">
+      <div class="page-header d-flex align-items-center" style="background-image: url('<?php echo base_url('assets/'); ?>assets/img/image/image8.png');">
         <div class="container position-relative">
           <div class="row d-flex justify-content-center">
             <div class="col-lg-6 text-center">

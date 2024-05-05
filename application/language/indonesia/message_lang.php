@@ -4,7 +4,7 @@ $lang['menu_test'] = "TECT";
 /** HEADER */
 $lang['menu_beranda'] = "Beranda";
 $lang['menu_tentang_kami'] = "Tentang Kami";
-$lang['menu_product_services'] = "Produk & Layanan";
+$lang['menu_product_services'] = "Produk";
 $lang['menu_partner'] = "Mitra";
 $lang['menu_berita'] = "Berita";
 $lang['menu_contact'] = "Hubungi Kami";

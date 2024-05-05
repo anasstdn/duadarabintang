@@ -3,8 +3,8 @@
 
         <a href="<?= base_url()?>home" class="logo d-flex align-items-center">
             <!-- Uncomment the line below if you also wish to use an image logo -->
-            <img src="assets/img/logo.png" alt="">
-            <h1>PT Dua Dara Bintang</h1>
+            <img src="<?= base_url()?>assets/assets/img/logo_1.png" alt="" >
+            <h1>PT. Dua Dara Bintang</h1>
         </a>
 
         <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
@@ -13,9 +13,7 @@
             <ul>
                 <li><a href="<?= base_url()?>home" <?php if($this->uri->segment(1)=="home"){echo 'class="active"';}?> ><?php echo $this->lang->line('menu_beranda'); ?></a></li>
                 <li><a href="<?= base_url()?>about_us" <?php if($this->uri->segment(1)=="about_us"){echo 'class="active"';}?> ><?php echo $this->lang->line('menu_tentang_kami'); ?></a></li>
-                <li><a href="services.html"><?php echo $this->lang->line('menu_product_services'); ?></a></li>
-                <li><a href="pricing.html"><?php echo $this->lang->line('menu_partner'); ?></a></li>
-                <li><a href="pricing.html"><?php echo $this->lang->line('menu_berita'); ?></a></li>
+                <li><a href="<?= base_url()?>services" <?php if($this->uri->segment(1)=="services"){echo 'class="active"';}?>><?php echo $this->lang->line('menu_product_services'); ?></a></li>
                 <li><a href="<?= base_url()?>contact_us"><?php echo $this->lang->line('menu_contact'); ?></a></li>
                 <li class="dropdown"><a href="#"><span><?php echo $this->lang->line('menu_bahasa'); ?></span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                     <ul>

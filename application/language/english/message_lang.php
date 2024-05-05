@@ -4,7 +4,7 @@ $lang['menu_test'] = "Test";
 /** HEADER */
 $lang['menu_beranda'] = "Home";
 $lang['menu_tentang_kami'] = "About Us";
-$lang['menu_product_services'] = "Product & Services";
+$lang['menu_product_services'] = "Products";
 $lang['menu_partner'] = "Partner";
 $lang['menu_berita'] = "News";
 $lang['menu_contact'] = "Contact Us";
@@ -23,7 +23,7 @@ $lang['content_intro'] .= "<p>Government policy regarding the provision of medic
 $lang['title_history'] = "The History of Dua Dara Bintang";
 $lang['content_history'] = "<p><b>PT. DUA DARA BINTANG</b> was estabilished on 12 May 2022 by Andri Aryanata, Rosmini and RR. Mutiara Citra who are also the shareholders of <b>PT. DUA DARA BINTANG</b>.</p>";
 $lang['content_history'] .= "<p>Amid high growth of healthcare services and strong demands on medical equipment and supplies as well as other trades in general, <b>PT. DUA DARA BINTANG</b> supplies the markets with high quality products of medical equipment supported with high-caliber professionals having extensive experience in product marketing and corporate administrative supports.</p>";
-$lang['content_history'] .= "<p><b>PT DUA DARA BINTANG</b> has principal place of business at Jl. Tebet Utara Dalam No. 10 RT. 010, RW 001, Tebet Jakarta Selatan, 12820.</p>";
+$lang['content_history'] .= "<p><b>PT. DUA DARA BINTANG</b> has principal place of business at Jl. Tebet Utara Dalam No. 10 RT. 010, RW 001, Tebet Jakarta Selatan, 12820.</p>";
 $lang['content_history'] .= "<p><b>PT. DUA DARA BINTANG</b> is an importer, Supplier and Distributor Company for medical equipment, especially products necessary for operating rooms. For this purpose the Company has developed cooperation with the likes of prominent International medical equipment producers/manufacturers across the world from America, Europe to Asia to meet domestic demands on these products in Indonesia. All of products have passed global quality standards.</p>";
 $lang['content_history'] .= "<p>Cooperation is also built with some local medical equipment producers in reggions to facilitate the distribution of products throughout provinces in Indonesia.</p>";
 $lang['content_history'] .= "<p>To abide the presently in force government policy, we have listed competitive prices of our products in BPJS and E-Catalogue.</p>";
@@ -43,6 +43,13 @@ $lang['content_misi'] = "<p><ol class='list-group-numbered'>
 /** CONTACT US MENU */
 $lang['title_contact_us'] = "Contact Us";
 $lang['content_location'] = "Location";
+$lang['content_email '] = "Email";
+$lang['content_phone'] = "Phone / Fax";
+/** END CONTACT US MENU */
+
+/** PRODUCT MENU */
+$lang['title_product'] = "Product";
+$lang['content_our_product'] = "Our Product";
 $lang['content_email '] = "Email";
 $lang['content_phone'] = "Phone / Fax";
 /** END CONTACT US MENU */

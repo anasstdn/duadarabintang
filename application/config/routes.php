@@ -54,9 +54,10 @@ $current_version = "v1";
 $route['home'] = $current_version."/page/home_controller";
 $route['about_us'] = $current_version."/page/aboutus_controller";
 $route['contact_us'] = $current_version."/page/contactus_controller";
+$route['services'] = $current_version."/page/services_controller";
 
 
-$route['default_controller'] = 'welcome';
+$route['default_controller'] = $current_version."/page/contactus_controller";
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 
