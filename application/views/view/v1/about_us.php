@@ -28,6 +28,11 @@
 
         <div class="row gy-4">
           <div class="col-lg-12 content order-last  order-lg-first">
+            <style>
+                body {
+                    text-align: justify;
+                }
+            </style>
             <h3><?= $this->lang->line('title_intro'); ?></h3>
             <?= $this->lang->line('content_intro'); ?>
           </div>
@@ -42,6 +47,11 @@
 
         <div class="row gy-4">
           <div class="col-lg-12 content order-last  order-lg-first">
+          <style>
+                body {
+                    text-align: justify;
+                }
+            </style>  
             <h3><?= $this->lang->line('title_history'); ?></h3>
             <?= $this->lang->line('content_history'); ?>
           </div>
@@ -80,7 +90,7 @@
     <!-- End Visi & Misi Section -->
 
     <!-- ======= Stats Counter Section ======= -->
-    <section id="stats-counter" class="stats-counter pt-0">
+    <!-- <section id="stats-counter" class="stats-counter pt-0">
       <div class="container" data-aos="fade-up">
 
         <div class="row gy-4">
@@ -90,32 +100,32 @@
               <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
               <p>Clients</p>
             </div>
-          </div><!-- End Stats Item -->
+          </div>End Stats Item
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
               <p>Projects</p>
             </div>
-          </div><!-- End Stats Item -->
+          </div>End Stats Item
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
               <p>Hours Of Support</p>
             </div>
-          </div><!-- End Stats Item -->
+          </div>End Stats Item
 
           <div class="col-lg-3 col-md-6">
             <div class="stats-item text-center w-100 h-100">
               <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
               <p>Workers</p>
             </div>
-          </div><!-- End Stats Item -->
+          </div>End Stats Item
 
         </div>
 
       </div>
-    </section><!-- End Stats Counter Section -->
+    </section>End Stats Counter Section -->
 
   </main>

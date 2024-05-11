@@ -11,6 +11,10 @@ $lang['menu_contact'] = "Contact Us";
 $lang['menu_bahasa'] = "Language";
 /** END */
 
+/** HOME US MENU */
+$lang['content_home'] = "Welcome to <br> PT. Dua Dara Bintang";
+/** END HOME US MENU */
+
 /** ABOUT US MENU */
 $lang['title_about_us'] = "About Us";
 /** INTRODUCTION SECTION */
@@ -21,7 +25,7 @@ $lang['content_intro'] .= "<p>Government policy regarding the provision of medic
 /** END INTRODUCTION SECTION */
 /** HISTORY SECTION */
 $lang['title_history'] = "The History of Dua Dara Bintang";
-$lang['content_history'] = "<p><b>PT. DUA DARA BINTANG</b> was estabilished on 12 May 2022 by Andri Aryanata, Rosmini and RR. Mutiara Citra who are also the shareholders of <b>PT. DUA DARA BINTANG</b>.</p>";
+$lang['content_history'] = "<p><b>PT. DUA DARA BINTANG</b> was estabilished on 12 May 2022 by A. Aryanata,  R. Ki Bintang Cahya Putra, and RR. Mutiara Citra who are also the shareholders of <b>PT. DUA DARA BINTANG</b>.</p>";
 $lang['content_history'] .= "<p>Amid high growth of healthcare services and strong demands on medical equipment and supplies as well as other trades in general, <b>PT. DUA DARA BINTANG</b> supplies the markets with high quality products of medical equipment supported with high-caliber professionals having extensive experience in product marketing and corporate administrative supports.</p>";
 $lang['content_history'] .= "<p><b>PT. DUA DARA BINTANG</b> has principal place of business at Jl. Tebet Utara Dalam No. 10 RT. 010, RW 001, Tebet Jakarta Selatan, 12820.</p>";
 $lang['content_history'] .= "<p><b>PT. DUA DARA BINTANG</b> is an importer, Supplier and Distributor Company for medical equipment, especially products necessary for operating rooms. For this purpose the Company has developed cooperation with the likes of prominent International medical equipment producers/manufacturers across the world from America, Europe to Asia to meet domestic demands on these products in Indonesia. All of products have passed global quality standards.</p>";
@@ -32,13 +36,20 @@ $lang['title_visi'] = "Vision";
 $lang['content_visi'] = "<p>To be a highly trustable, competitive and quality medical equipment provider in Indonesia</p>";
 $lang['title_misi'] = "Mission";
 $lang['content_misi'] = "<p><ol class='list-group-numbered'>
-                            <li class='list-group-item'>To fulfill the needs of communities on medical equipment with high
-                            quality and at competitive prices</li>
-                            <li class='list-group-item'>To provide and distribute medical equipment of the best products in
-                            terms of security standards and quality</li>
+                            <li class='list-group-item'>To fulfill the needs of communities on medical equipment with high quality and at competitive prices</li>
+                            <li class='list-group-item'>To provide and distribute medical equipment of the best products in terms of security standards and quality</li>
                             <li class='list-group-item'>To render best services to customers</li>
                         </ol></p>";
 /** END ABOUT US MENU */
+
+/** PRODUCT MENU */
+$lang['title_product'] = "Product";
+$lang['content_our_product'] = "Our Product";
+$lang['product_1'] = "Scissors Medical";
+$lang['product_1_description'] = "Used for tissue scissors, surgical scissors, umbilical cord scissors, etc";
+$lang['product_2_description'] = "Used to repair abdominal walls affected by hernias. The materials are semi-rigids and rigid";
+$lang['product_3_description'] = "Sterile haemostatic absorable gelatine sponge";
+/** END CONTACT US MENU */
 
 /** CONTACT US MENU */
 $lang['title_contact_us'] = "Contact Us";
@@ -47,9 +58,3 @@ $lang['content_email '] = "Email";
 $lang['content_phone'] = "Phone / Fax";
 /** END CONTACT US MENU */
 
-/** PRODUCT MENU */
-$lang['title_product'] = "Product";
-$lang['content_our_product'] = "Our Product";
-$lang['content_email '] = "Email";
-$lang['content_phone'] = "Phone / Fax";
-/** END CONTACT US MENU */
