@@ -57,7 +57,7 @@ $route['contact_us'] = $current_version."/page/contactus_controller";
 $route['services'] = $current_version."/page/services_controller";
 
 
-$route['default_controller'] = $current_version."/page/contactus_controller";
+$route['default_controller'] = "welcome";
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
 

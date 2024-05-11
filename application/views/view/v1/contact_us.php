@@ -30,7 +30,7 @@
 
         <div class="row gy-4 mt-4">
 
-          <div class="col-lg-4">
+          <div class="col-lg-12">
 
             <div class="info-item d-flex">
               <i class="bi bi-geo-alt flex-shrink-0"></i>
@@ -60,7 +60,7 @@
 
           </div>
 
-          <div class="col-lg-8">
+          <!-- <div class="col-lg-8">
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
@@ -83,7 +83,8 @@
               </div>
               <div class="text-center"><button type="submit">Send Message</button></div>
             </form>
-          </div><!-- End Contact Form -->
+          </div> -->
+          <!-- End Contact Form -->
 
         </div>
 

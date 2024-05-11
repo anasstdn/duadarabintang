@@ -89,7 +89,7 @@
               <div class="card-img">
                 <img src="<?= base_url()?>assets/assets/img/image/image6.png" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link"><?php echo $this->lang->line('product_1'); ?></a></h3>
+              <h3><a href="javascript:void(0)" class="stretched-link"><?php echo $this->lang->line('product_1'); ?></a></h3>
               <p><?php echo $this->lang->line('product_1_description'); ?></p>
             </div>
           </div><!-- End Card Item -->
@@ -99,7 +99,7 @@
               <div class="card-img">
                 <img src="<?= base_url()?>assets/assets/img/image/image7.png" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Mesh</a></h3>
+              <h3><a href="javascript:void(0)" class="stretched-link">Mesh</a></h3>
               <!-- <p>Digunakan untuk perbaikan dinding perut yang terkena hermia. Bahan nya lebih kaku</p> -->
               <p><?php echo $this->lang->line('product_2_description'); ?></p>
             </div>
@@ -120,7 +120,7 @@
               <div class="card-img">
                 <img src="<?= base_url()?>assets/assets/img/image/image9.png" alt="" class="img-fluid">
               </div>
-              <h3><a href="service-details.html" class="stretched-link">Haemostatic</a></h3>
+              <h3><a href="javascript:void(0)" class="stretched-link">Haemostatic</a></h3>
               <p><?php echo $this->lang->line('product_3_description'); ?></p>
             </div>
           </div><!-- End Card Item -->

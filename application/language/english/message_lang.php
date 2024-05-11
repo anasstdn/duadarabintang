@@ -54,7 +54,7 @@ $lang['product_3_description'] = "Sterile haemostatic absorable gelatine sponge"
 /** CONTACT US MENU */
 $lang['title_contact_us'] = "Contact Us";
 $lang['content_location'] = "Location";
-$lang['content_email '] = "Email";
+$lang['content_email'] = "Email";
 $lang['content_phone'] = "Phone / Fax";
 /** END CONTACT US MENU */
 
